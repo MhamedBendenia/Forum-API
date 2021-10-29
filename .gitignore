@@ -1,0 +1,4 @@
+forum/__pycache__
+forum_api/__pycache__
+forum_api/migrations
+db.sqlite3
